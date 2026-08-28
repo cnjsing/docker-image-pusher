@@ -1,2 +1,1 @@
-nginx:latest
-nvidia/cuda:13.0.2-devel-ubuntu24.04
+eugr/spark-vllm-b12x:latest
