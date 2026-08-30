@@ -1,1 +1,1 @@
-eugr/spark-vllm-b12x:latest
+ghcr.io/anemll/dspark-vllm-gx10:0.1.1
