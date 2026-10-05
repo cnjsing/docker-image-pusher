@@ -1,4 +1,4 @@
-mysql:8.4.12
-redis:8.4.7
+mysql:8.4.11
+redis:8.10.2
 nginx:1.30.5
 python:3.12-slim
